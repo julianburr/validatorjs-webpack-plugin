@@ -1,0 +1,41 @@
+{
+  "1.0.0": {
+    "commits": [
+      {
+        "status": [
+          "A",
+          "A",
+          "A",
+          "A",
+          "A"
+        ],
+        "files": [
+          ".gitignore",
+          "README.md",
+          "index.js",
+          "package.json",
+          "yarn.lock"
+        ],
+        "abbrevHash": "95f61e4",
+        "hash": "95f61e405283e4b88704f9e826bfe35b6c0820f9",
+        "subject": "feat: Add code for plugin + readme for usage instructions",
+        "authorName": "Julian Burr",
+        "type": null
+      },
+      {
+        "status": [
+          "A"
+        ],
+        "files": [
+          "LICENSE"
+        ],
+        "abbrevHash": "b0972be",
+        "hash": "b0972be192d18ff4d8385e000494c19102f95b23",
+        "subject": "Initial commit",
+        "authorName": "Julian Burr",
+        "type": null
+      }
+    ],
+    "ts": 1541837896083
+  }
+}

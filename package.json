@@ -1,6 +1,6 @@
 {
   "name": "validatorjs-webpack-plugin",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Webpack plugin for validator js, to remove all unneeded locale files.",
   "main": "index.js",
   "scripts": {
