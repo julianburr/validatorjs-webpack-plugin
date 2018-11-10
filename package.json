@@ -1,6 +1,8 @@
 {
   "name": "validatorjs-webpack-plugin",
   "version": "1.0.0",
+  "repository": "https://github.com/julianburr/validatorjs-webpack-plugin",
+  "author": "Julian Burr <hello@julianburr.de>",
   "description": "Webpack plugin for validator js, to remove all unneeded locale files.",
   "main": "index.js",
   "scripts": {
@@ -11,7 +13,6 @@
     "webpack-plugin",
     "validatorjs"
   ],
-  "author": "",
   "license": "MIT",
   "peerDependencies": {
     "validatorjs": "^3",

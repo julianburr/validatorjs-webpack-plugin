@@ -1,5 +1,7 @@
 # validatorjs-webpack-plugin
 
+![npm](https://img.shields.io/npm/v/validatorjs-webpack-plugin.svg?style=for-the-badge) ![license](https://img.shields.io/github/license/julianburr/validatorjs-webpack-plugin.svg?style=for-the-badge)
+
 ## Usage
 
 ```bash
